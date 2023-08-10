@@ -1,14 +1,14 @@
 {
     "serv":{
         "dev_reg":"https://shiyuxin.work/mcu/add",
-        "dev_checkupdate":"http://10.1.1.75:5000/mcu/dev_checkupdate",
         "dev_get_token":"http://10.1.1.75:5000/mcu/dev_get_token",
+        "dev_checkupdate":"http://10.1.1.75:5000/mcu/dev_checkupdate",
         "last_update":"20230811022200"
     },
     "dev_serv":{
-        "dev_reg":"http://10.1.1.75:5000/mcu/add",
-        "dev_checkupdate":"http://10.1.1.75:5000/mcu/add",
-        "dev_get_token":"http://10.1.1.75:5000/mcu/add",
+        "dev_reg":"http://10.1.1.75:50002/dev/add",
+        "dev_get_token":"http://10.1.1.75:50031/token",
+        "dev_checkupdate":"http://10.1.1.75:50032/dev_checkupdate",
         "last_update":"20230811022200"
     }
 }

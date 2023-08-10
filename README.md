@@ -21,6 +21,7 @@ http://entrypoint.XXXXX/fish-v4-entrypoint/dev-v4.json
 - 合并回源配置 打开 
 - 用量封顶配置  瞬间 5分钟 500M  404  ，以及 告警阈值 流量的80%
 - 离线缓存配置  防止被墙
+- 全部文件 强制缓存  7天
 - post限制  1M
 
 ## 放对象储存
