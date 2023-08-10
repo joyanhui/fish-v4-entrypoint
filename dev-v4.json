@@ -1,0 +1,8 @@
+{
+    "此文件为静态cdn维护":"",
+    "serv":{
+        "dev_reg":"http://10.1.1.75:5000/mcu/add",
+        "dev_checkupdate":"http://10.1.1.75:5000/mcu/add",
+        "dev_get_token":"http://10.1.1.75:5000/mcu/add"
+    }
+}
